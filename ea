@@ -1,0 +1,72 @@
+[33mcommit 569514eb36f4568bbc173496d33156df33566fe9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/draft/elegant-nightingale[m[33m, [m[1;31morigin/draft/damp-dew[m[33m)[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Tue Feb 21 20:15:15 2023 +0700
+
+    Xây dựng UI phần Header #3
+    (button & custom button)
+
+[33mcommit 5b5adab3132285dffb4c88ffdf68eab20e429a24[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Sun Feb 19 18:32:35 2023 +0700
+
+    UI phần Header #2(search-box)
+
+[33mcommit 9e311b9009e3cec6584519d5ca1f766b66a7b5e7[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Sun Feb 19 18:29:55 2023 +0700
+
+    UI phần Header #2 (search-box)
+
+[33mcommit 930b9b8d8373668b1fa9f6cc83212079b175bf0c[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Wed Feb 15 19:41:35 2023 +0700
+
+    UI phần Header #1 ( icon -- search
+
+[33mcommit 7ed26c50212c1152845699fb1f28f6b76a932b10[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Fri Feb 10 11:18:08 2023 +0700
+
+    Dựng khung Layout mặc định
+
+[33mcommit 0fa4cdc20daa0ae046be599942e6cce1a841153c[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Thu Feb 9 22:12:12 2023 +0700
+
+    Cấu hình Router/Layout cho dự án
+
+[33mcommit 19246277c9a6defdec11defef3bece13eb4dab2b[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Thu Feb 9 22:02:18 2023 +0700
+
+    Cấu hình Router/Layout cho dự án
+
+[33mcommit 92db54e72d2647719c447578813a67c5ce8db577[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Thu Feb 9 17:11:15 2023 +0700
+
+    Cấu hình sử dụng CSS/SASS
+
+[33mcommit 1e6b36195f448251e9d486663a0542d57142aa69[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Thu Feb 9 16:56:01 2023 +0700
+
+    Cài đặt và cấu hình Prettier
+
+[33mcommit 84729419f22db55b73d3dd5a54612bf197897da0[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Thu Feb 9 16:48:56 2023 +0700
+
+    Cài đặt babel-plugin-module-resolver
+
+[33mcommit fad15ad8e0738a3e32285e6160ce5c0e76543647[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Thu Feb 9 16:09:39 2023 +0700
+
+    Cài đặt Customize-cra và React-app-rewired
+
+[33mcommit bfa8ad306fa76ed9c1993d93abc9eb198d306746[m
+Author: antialone <antialonedn1@gmail.com>
+Date:   Thu Feb 9 11:02:32 2023 +0700
+
+    Initialize project using Create React App
